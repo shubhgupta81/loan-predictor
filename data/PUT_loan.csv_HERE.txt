@@ -1,0 +1,1 @@
+Download "Credit Risk Dataset" from Kaggle, rename the file to loan.csv and put it in this folder.
